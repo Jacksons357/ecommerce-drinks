@@ -59,7 +59,7 @@ spiritshop/
 1. **Clone ou baixe o projeto**
 
    ```bash
-   git clone [url-do-repositorio]
+   git clone https://github.com/Jacksons357/spiritshop.git
    cd spiritshop
    ```
 
@@ -69,8 +69,15 @@ spiritshop/
    - Certifique-se de que o PHP está habilitado
 
 3. **Acesse a aplicação**
+
    - Abra o navegador e acesse: `http://localhost/spiritshop/`
    - Ou use um servidor local como XAMPP, WAMP, ou similar
+
+   - **Alternativa**: Use o servidor PHP embutido:
+     ```bash
+     php -S localhost:8000
+     ```
+     E acesse: `http://localhost:8000`
 
 ### Desenvolvimento
 
@@ -299,10 +306,6 @@ localStorage.removeItem("spiritshop_reviews_1");
 - Compressão de dados no localStorage
 - Cache inteligente
 - PWA (Progressive Web App)
-
-## 📄 Licença
-
-Este projeto foi desenvolvido como teste técnico e está disponível para fins educacionais.
 
 ---
 
