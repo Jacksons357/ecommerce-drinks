@@ -1,0 +1,181 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Whisky Jack Daniel's Old No. 7",
+      "shortDescription": "Whisky americano clássico com sabor suave e notas de carvalho",
+      "description": "O Jack Daniel's Old No. 7 é um whisky americano premium, destilado e envelhecido em barris de carvalho carbonizado. Com seu processo único de filtragem através de carvão de bordo, oferece um sabor suave e equilibrado com notas de baunilha, carvalho e um toque de especiarias. Perfeito para apreciar puro, no gelo ou em cocktails clássicos.",
+      "price": 89.90,
+      "originalPrice": 119.90,
+      "rating": 4,
+      "category": "Whisky",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&h=600&fit=crop"
+      ],
+      "specifications": [
+        "750ml",
+        "40% ABV",
+        "Envelhecido em carvalho",
+        "Filtrado em carvão de bordo",
+        "Origem: Tennessee, EUA"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Vodka Absolut Original",
+      "shortDescription": "Vodka premium sueca com pureza excepcional e sabor neutro",
+      "description": "A Absolut Original é uma vodka premium destilada na Suécia desde 1879. Feita com trigo de inverno e água pura de fonte natural, oferece um sabor limpo e neutro com um toque suave de grãos. Sua destilação contínua garante pureza excepcional, tornando-a perfeita para cocktails ou para apreciar pura.",
+      "price": 45.90,
+      "rating": 4,
+      "category": "Vodka",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&h=600&fit=crop"
+      ],
+      "specifications": [
+        "750ml",
+        "40% ABV",
+        "Destilada na Suécia",
+        "Feita com trigo de inverno",
+        "Filtrada em carvão ativado"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Rum Havana Club 7 Años",
+      "shortDescription": "Rum cubano envelhecido por 7 anos com sabor rico e complexo",
+      "description": "O Havana Club 7 Años é um rum premium cubano envelhecido por sete anos em barris de carvalho. Com seu sabor rico e complexo, apresenta notas de baunilha, carvalho, especiarias e um toque de frutas tropicais. Sua textura suave e aroma intenso o tornam perfeito para apreciar puro ou em cocktails sofisticados.",
+      "price": 75.50,
+      "rating": 5,
+      "category": "Rum",
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop"
+      ],
+      "specifications": [
+        "750ml",
+        "40% ABV",
+        "Envelhecido 7 anos",
+        "Origem: Cuba",
+        "Destilado de melaço de cana"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Gin Bombay Sapphire",
+      "shortDescription": "Gin premium com 10 botânicos selecionados e sabor equilibrado",
+      "description": "O Bombay Sapphire é um gin premium destilado com 10 botânicos cuidadosamente selecionados, incluindo zimbro, casca de limão, casca de lima, amêndoas, raiz de angélica, sementes de coentro, raiz de lírio, casca de canela, pimenta da Jamaica e grãos do paraíso. Seu sabor equilibrado e aroma cítrico o tornam ideal para gin tônica e cocktails clássicos.",
+      "price": 65.90,
+      "rating": 4,
+      "category": "Gin",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&h=600&fit=crop"
+      ],
+      "specifications": [
+        "750ml",
+        "47% ABV",
+        "10 botânicos selecionados",
+        "Destilado na Inglaterra",
+        "Filtrado em carvão ativado"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tequila Patrón Silver",
+      "shortDescription": "Tequila premium 100% agave azul com sabor suave e puro",
+      "description": "O Patrón Silver é um tequila premium 100% agave azul, destilado em pequenos lotes na região de Jalisco, México. Com seu sabor suave e puro, apresenta notas de pimenta, cítricos e um toque de baunilha. Sua textura sedosa e aroma intenso de agave o tornam perfeito para margaritas ou para apreciar puro.",
+      "price": 120.00,
+      "rating": 5,
+      "category": "Tequila",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&h=600&fit=crop"
+      ],
+      "specifications": [
+        "750ml",
+        "40% ABV",
+        "100% Agave Azul",
+        "Origem: Jalisco, México",
+        "Destilado em pequenos lotes"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Cognac Hennessy VS",
+      "shortDescription": "Cognac francês envelhecido com sabor rico e notas de frutas",
+      "description": "O Hennessy VS é um cognac francês premium, envelhecido por pelo menos 2 anos em barris de carvalho. Com seu sabor rico e complexo, apresenta notas de frutas maduras, baunilha, carvalho e um toque de especiarias. Sua textura suave e aroma intenso o tornam perfeito para apreciar puro ou em cocktails sofisticados.",
+      "price": 180.00,
+      "rating": 5,
+      "category": "Cognac",
+      "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop"
+      ],
+      "specifications": [
+        "750ml",
+        "40% ABV",
+        "Envelhecido 2+ anos",
+        "Origem: Cognac, França",
+        "Destilado de uvas brancas"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Vodka Grey Goose",
+      "shortDescription": "Vodka francesa premium com trigo de inverno e água de fonte",
+      "description": "A Grey Goose é uma vodka francesa premium, destilada com trigo de inverno da Picardia e água pura de fonte natural. Com seu sabor limpo e elegante, apresenta notas suaves de grãos e um toque de baunilha. Sua destilação artesanal e filtragem cuidadosa garantem pureza excepcional.",
+      "price": 95.00,
+      "rating": 4,
+      "category": "Vodka",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&h=600&fit=crop"
+      ],
+      "specifications": [
+        "750ml",
+        "40% ABV",
+        "Destilada na França",
+        "Trigo de inverno da Picardia",
+        "Água de fonte natural"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Whisky Johnnie Walker Black Label",
+      "shortDescription": "Whisky escocês blend premium com sabor rico e equilibrado",
+      "description": "O Johnnie Walker Black Label é um whisky escocês blend premium, envelhecido por pelo menos 12 anos. Com seu sabor rico e equilibrado, apresenta notas de carvalho, baunilha, especiarias e um toque de fumaça. Sua complexidade e suavidade o tornam perfeito para apreciar puro ou no gelo.",
+      "price": 110.00,
+      "rating": 4,
+      "category": "Whisky",
+      "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop",
+      "images": [
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600&h=600&fit=crop"
+      ],
+      "specifications": [
+        "750ml",
+        "40% ABV",
+        "Envelhecido 12+ anos",
+        "Blend de malts e grãos",
+        "Origem: Escócia"
+      ]
+    }
+  ]
+} 
