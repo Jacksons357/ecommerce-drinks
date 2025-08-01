@@ -1,4 +1,4 @@
-# SpiritShop - Teste Técnico
+# Drinks - Ecommerce
 
 Um projeto de e-commerce desenvolvido com PHP, Bootstrap, JavaScript e SCSS.
 
